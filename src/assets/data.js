@@ -1,40 +1,41 @@
 const PROJECTS = [
   {
-    "id": 1,
-    "name": "TFC",
-    "description": "seedling generation project",
-    "title": "Tehilla tea farm",
-    "user_id": 10
+    id: 1,
+    name: 'TFC',
+    description:
+      'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti quo, deleniti ipsam repudiandae odit iure iusto dolorem accusantium voluptates repellat hic, in dignissimos molestias reiciendis saepe excepturi laborum vero inventore!',
+    title: 'Tehilla tea farm',
+    user_id: 10,
   },
   {
-    "id": 2,
-    "name": "CDH",
-    "description": "fast food restaurant",
-    "title": "cee dines hotel",
-    "user_id": 20
+    id: 2,
+    name: 'CDH',
+    description: 'fast food restaurant',
+    title: 'cee dines hotel',
+    user_id: 20,
   },
   {
-    "id": 3,
-    "name": "APC",
-    "description": "avocado management project",
-    "title": "Avocado plants cooporation",
-    "user_id": 30
+    id: 3,
+    name: 'APC',
+    description: 'avocado management project',
+    title: 'Avocado plants cooporation',
+    user_id: 30,
   },
   {
-    "id": 4,
-    "name": "MIC",
-    "description": "charity organization",
-    "title": "mark miller cooporation",
-    "user_id": 40
+    id: 4,
+    name: 'MIC',
+    description: 'charity organization',
+    title: 'mark miller cooporation',
+    user_id: 40,
   },
   {
-    "id": 5,
-    "name": "CCI",
-    "description": "climate change an tracking",
-    "title": "climate change inititiative",
-    "user_id": 50
-  }
-]
+    id: 5,
+    name: 'CCI',
+    description: 'climate change an tracking',
+    title: 'climate change inititiative',
+    user_id: 50,
+  },
+];
 
 const USERS = [
   {
