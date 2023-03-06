@@ -247,4 +247,4 @@ const MEMBERS = [
   },
 ];
 
-modules.export = { PROJECTS, USERS, MEMBERS };
+export { PROJECTS, USERS, MEMBERS };
